@@ -1,6 +1,11 @@
 ---
-layout: post
-title: You're up and running!
+Title: "UP: and running"
+Date: 2015-07-20T01:58-04:00
+Author: Steve Moser
+Categories: Bags
+UTI: org.stevemoser.private
+Tags: [Paper, Plastic]
+UUID: E66620F9-AF99-42A6-BD59-DA84A5DCC10E
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
