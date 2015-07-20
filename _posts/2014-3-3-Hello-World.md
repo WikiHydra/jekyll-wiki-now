@@ -2,6 +2,7 @@
 Title: "UP: and running"
 Date: 2015-07-20T01:58-04:00
 Author: Steve Moser
+Layout: post
 Categories: Bags
 UTI: org.stevemoser.private
 Tags: [Paper, Plastic]
