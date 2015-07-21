@@ -15,6 +15,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 github_user: WikiHydra
 github_repo: jekyll-wiki-now
 
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+
 #
 # Flags below are optional
 #
@@ -55,10 +60,7 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-collections:
-  licenses:
-    output: true
-    permalink: /articles/:path/
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
