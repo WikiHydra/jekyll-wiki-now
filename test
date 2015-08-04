@@ -1,0 +1,10 @@
+---
+title: "This is a test of GitHub's md preview with an extensionless file"
+layout: page
+---
+
+# Title
+
+## Subtitle
+
+More **important** information. [CNAME](CNAME)
